@@ -6,6 +6,11 @@ body{
 	
 }
 
+#todo{
+	max-width: 500px;
+	margin: 0 auto;
+}
+
 
 button{
 	display: block;
