@@ -8,7 +8,7 @@ body{
 
 #todo{
 	max-width: 500px;
-	height: 100vh;
+	min-height: 100vh;
 	margin: 0 auto;
 	padding: 2em;
 	background-color: rgba(10,10,10,.4);
